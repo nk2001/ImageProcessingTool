@@ -1,6 +1,7 @@
 Before running, install the required libraries:
 
 pip install pillow pillow-heif
+
 pip install piexif
 
 This version is compatible with Windows and offers multiple ways to use the script:
