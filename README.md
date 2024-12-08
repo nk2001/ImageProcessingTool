@@ -1,4 +1,4 @@
-Simple python script to convert images in HEIC format to JPG
+Simple python script to convert images from HEIC to JPG format
 
 Before running, install the required libraries: pillow-heif and piexif
 
